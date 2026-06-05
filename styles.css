@@ -1,0 +1,51 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 340px;
+    margin-top: 50px;
+}
+
+.search-bar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 30px;
+    font-size: 16px;
+    padding: 5px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    border: 1px solid #f8f8f8;
+}
+
+.buttons {
+    display:flex;
+    justify-content: center;
+    gap: 10px;
+    
+}
+
+.search-button {
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    font-size:16px;
+    background-color :#f8f8f8;
+    border: 1px solid #dcdcdc;
+    border-radius: 15px;
+
+}
+
+.lucky-button {
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    font-size:16px;
+    background-color :#f8f8f8;
+    border: 1px solid #dcdcdc;
+    border-radius: 15px;
+
+}
